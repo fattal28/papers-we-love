@@ -5,7 +5,12 @@
 |Cryptography|6|7|
 |Data Science|7|9|
 |Digital Currency|7|7|
- 
+|Logic|7|5|
+|Machine Learning|6|10|
+|Privacy|6|7|
+|Scripts|8|8|
+|Security|7|8|
+
  
  
  
