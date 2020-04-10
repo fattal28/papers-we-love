@@ -1,15 +1,15 @@
 ﻿
 | Topic | Interest | Application |
 | ------|----------|-------------|
-| Bioinformatics (https://github.com/fattal28/papers-we-love/tree/master/biocomputing)|8|6|
-|Cryptography|6|7|
-|Data Science|7|9|
-|Digital Currency|7|7|
-|Logic|7|5|
-|Machine Learning|6|10|
-|Privacy|6|7|
-|Scripts|8|8|
-|Security|7|8|
+| [Bioinformatics] (https://github.com/fattal28/papers-we-love/tree/master/biocomputing)|8|6|
+|[Cryptography] (https://github.com/fattal28/papers-we-love/tree/master/cryptography)|6|7|
+|[Data Science] (https://github.com/fattal28/papers-we-love/tree/master/data_science)|7|9|
+|[Digital Currency] (https://github.com/fattal28/papers-we-love/tree/master/digitial_currency)|7|7|
+|[Logic and Programming] (https://github.com/fattal28/papers-we-love/tree/master/logic_and_programming)|7|5|
+|[Machine Learning] (https://github.com/fattal28/papers-we-love/tree/master/machine_learning)|6|10|
+|[Privacy] (https://github.com/fattal28/papers-we-love/tree/master/privacy)|6|7|
+|[Scripts] (https://github.com/fattal28/papers-we-love/tree/master/scripts)|8|8|
+|[Security](https://github.com/fattal28/papers-we-love/tree/master/security)|7|8|
 
  
  
