@@ -1,7 +1,7 @@
 ﻿
 | Topic | Interest | Application |
 | ------|----------|-------------|
-| Bioinformatics|8|6|
+| Bioinformatics (https://github.com/fattal28/papers-we-love/tree/master/biocomputing)|8|6|
 |Cryptography|6|7|
 |Data Science|7|9|
 |Digital Currency|7|7|
