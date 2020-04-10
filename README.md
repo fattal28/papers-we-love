@@ -5,7 +5,7 @@
 |[Cryptography](https://github.com/fattal28/papers-we-love/tree/master/cryptography)|6|7|
 |[Data Science](https://github.com/fattal28/papers-we-love/tree/master/data_science)|7|9|
 |[Digital Currency](https://github.com/fattal28/papers-we-love/tree/master/digitial_currency)|7|7|
-|[Distributed Systems]https://github.com/fattal28/papers-we-love/tree/master/distributed_systems)|7|8|
+|[Distributed Systems](https://github.com/fattal28/papers-we-love/tree/master/distributed_systems)|7|8|
 |[Logic and Programming](https://github.com/fattal28/papers-we-love/tree/master/logic_and_programming)|7|5|
 |[Machine Learning](https://github.com/fattal28/papers-we-love/tree/master/machine_learning)|6|10|
 |[Privacy](https://github.com/fattal28/papers-we-love/tree/master/privacy)|6|7|
