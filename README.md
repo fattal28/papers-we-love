@@ -1,7 +1,10 @@
 ﻿
 | Topic | Interest | Application |
 | ------|----------|-------------|
- 
+| Bioinformatics|8|6|
+|Cryptography|6|7|
+|Data Science|7|9|
+|Digital Currency|7|7|
  
  
  
