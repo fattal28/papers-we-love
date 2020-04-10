@@ -8,7 +8,6 @@
 |[Logic and Programming](https://github.com/fattal28/papers-we-love/tree/master/logic_and_programming)|7|5|
 |[Machine Learning](https://github.com/fattal28/papers-we-love/tree/master/machine_learning)|6|10|
 |[Privacy](https://github.com/fattal28/papers-we-love/tree/master/privacy)|6|7|
-|[Scripts](https://github.com/fattal28/papers-we-love/tree/master/scripts)|8|8|
 |[Security](https://github.com/fattal28/papers-we-love/tree/master/security)|7|8|
 
  
